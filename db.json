@@ -1,0 +1,28 @@
+{
+  "users": [
+    {
+      "name": "bobsqw",
+      "email": "bob@gmail.com",
+      "password": "222",
+      "id": 1
+    },
+    {
+      "name": "kim",
+      "email": "kim6@gmail.com",
+      "password": "563",
+      "id": 2
+    },
+    {
+      "name": "john",
+      "email": "john6@gmail.com",
+      "password": "932",
+      "id": 3
+    },
+    {
+      "name": "rob",
+      "email": "rob6@gmail.com",
+      "password": "800",
+      "id": 4
+    }
+  ]
+}
